@@ -17,6 +17,7 @@ Build-Depends:
 	php5-dev,
 	python-dev (>= 2.7),
 	kdepimlibs5-dev,
+        nepomuk-core-dev,
 X-Python-Version: >= 2.7
 Standards-Version: 3.9.3
 Homepage: http://git.kolab.org/libkolab
