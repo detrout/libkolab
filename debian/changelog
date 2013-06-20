@@ -3,6 +3,7 @@ libkolab (0.4.2-4.1) UNRELEASED; urgency=low
   * Add nepomuk-core-dev dependency
   * Add simpler_cmake_test.patch
   * Add -DINCLUDE_INSTALL_DIR=/usr/include to debian/rules
+  * Exclude kdepim-runtime from shdeps
 
  -- Diane Trout <diane@ghic.org>  Tue, 18 Jun 2013 23:05:05 -0700
 
